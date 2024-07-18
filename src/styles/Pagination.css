@@ -1,0 +1,16 @@
+.pagination {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    margin: 20px 0;
+  }
+  .pagination .page-item {
+    margin: 0 5px;
+  }
+  .pagination .page-link {
+    padding: 10px 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
